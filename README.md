@@ -14,3 +14,13 @@ The Outcomes of the project are given below: <br>
 5. With the onset of the corona virus pandemic, most people will choose to wear masks on a
 regular basis. By using Attribute Based Double Bounded Rough Neutrosophic Sets the person’s true expression can be detected just by using the feature points in and around the eyes. <br>
 6. To check if a person is Faking an Expression or trying to Cheat during an Examination.<br>
+
+<br>
+
+
+
+
+
+
+
+
