@@ -17,6 +17,14 @@ regular basis. By using Attribute Based Double Bounded Rough Neutrosophic Sets t
 
 <br>
 
+The repository contains the following files: <br>
+<br>
+1. **Images_Universal.zip**                           : Consists of 200 images which constitutes the Universal Set.<br>
+2. **facial_keypointf.csv**                           : The csv file contains the Paramter Values for each of the 200 Images.<br>
+3. **Facial_Expression_Detection_Without_MASK.ipynb** : It contains the code for detecting the facial expression when the person is not                                                         wearing a mask <br>
+4. **Facial_Expression_Detection_With_MASK.ipynb**    : It contains the code for detecting the facial expression when the person is                                                         wearing a mask <br>
+5. **requirements.txt**                               : Consists of the Required Tools. <br> 
+
 
 
 
